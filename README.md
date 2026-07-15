@@ -1,3 +1,4 @@
+<img width="1143" height="1049" alt="1d809069-c45c-4bf0-9bc5-b1420c6b14c6" src="https://github.com/user-attachments/assets/775cd805-cb04-40b0-bb20-4d15de114420" />
 # Gym Customer Churn Analysis & Prediction
 Data science Randomforest  regressions to messure churn rates in gym customers
 
@@ -11,6 +12,8 @@ This project analyzes customer data from a fitness chain to **predict churn** an
 - Identify at-risk customers early
 - Optimize marketing spend on high-retention segments
 - Potential churn reduction of 20-30% through data-driven interventions
+
+<img width="1143" height="1049" alt="1d809069-c45c-4bf0-9bc5-b1420c6b14c6" src="https://github.com/user-attachments/assets/88a34dd0-8cb3-4002-b17a-a1790a0562a1" />
 
 ## 📊 Dataset
 
@@ -26,6 +29,9 @@ This project analyzes customer data from a fitness chain to **predict churn** an
   - Logistic Regression & Random Forest for churn prediction
   - K-Means & Hierarchical Clustering for customer segmentation
 - **Evaluation**: Accuracy, ROC-AUC, classification reports, silhouette scores
+
+<img width="999" height="705" alt="9688cf42-cdac-4cf0-a202-7a5c5739d68a" src="https://github.com/user-attachments/assets/c89d19c0-6f49-4105-9055-dd27f6165d4c" />
+
 
 ## 📁 Repository Structure
 gym-churn-analysis/

@@ -1,4 +1,3 @@
-<img width="1143" height="1049" alt="1d809069-c45c-4bf0-9bc5-b1420c6b14c6" src="https://github.com/user-attachments/assets/775cd805-cb04-40b0-bb20-4d15de114420" />
 # Gym Customer Churn Analysis & Prediction
 Data science Randomforest  regressions to messure churn rates in gym customers
 
